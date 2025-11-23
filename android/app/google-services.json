@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "1013950263488",
+    "project_id": "whisper-guard",
+    "storage_bucket": "whisper-guard.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013950263488:android:f8a774d4de0a4d795cbd25",
+        "android_client_info": {
+          "package_name": "com.example.codedeck"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE3wqvhTbAlOQ-1ncf2fa2ltErlXgfxZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013950263488:android:64f2bc538a134c9e5cbd25",
+        "android_client_info": {
+          "package_name": "com.example.lucky_draw_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE3wqvhTbAlOQ-1ncf2fa2ltErlXgfxZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013950263488:android:2281704a4f88baf85cbd25",
+        "android_client_info": {
+          "package_name": "com.example.practice_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE3wqvhTbAlOQ-1ncf2fa2ltErlXgfxZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

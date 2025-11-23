@@ -1,0 +1,38 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "whisper-guard",
+          "appId": "1:1013950263488:android:2281704a4f88baf85cbd25",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "whisper-guard",
+          "configurations": {
+            "android": "1:1013950263488:android:2281704a4f88baf85cbd25",
+            "ios": "1:1013950263488:ios:e617332c8be5e4755cbd25",
+            "web": "1:1013950263488:web:4f96de8faa7f74735cbd25",
+            "windows": "1:1013950263488:web:23b1fd598fded67e5cbd25"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
